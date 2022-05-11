@@ -1,7 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
 
-const App = 42
 
 function App() {
   return (
